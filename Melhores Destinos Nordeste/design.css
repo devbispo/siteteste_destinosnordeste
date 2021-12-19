@@ -1,0 +1,30 @@
+html {
+    background-color: rgba(55, 134, 48, 0.877);
+    text-align: center;
+}
+h1 {
+    margin: 10px 150px 10px 150px;
+    padding: 15px;
+    background-color: rgb(175, 197, 183);
+}
+h2{
+    border-bottom: 2px solid black;
+}
+img {
+    margin: 20px 25px 20px 25px;
+    padding: 15px;
+    background: linear-gradient(rgba(8, 172, 95, 0.753), rgb(28, 202, 12), rgba(9, 2, 34, 0.918))
+    
+        
+}
+img:hover {
+    -webkit-transform: scale(0,5);
+    transform: scale(1.5);
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+p {
+    background-color: rgb(21, 191, 221);
+    margin: 10px 550px 10px 550px;
+}
